@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeMan", "BikeMan\BikeMan.csproj", "{2B5A010C-7DE1-4398-A415-29C3D6F6E189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeLibrary", "BikeLibrary\BikeLibrary.csproj", "{386F610E-F993-496A-BD89-BB9F2FCF33A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeTest", "BikeTest\BikeTest.csproj", "{60F8BE48-3C6C-4BD1-AEA7-6CAE80066687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B5A010C-7DE1-4398-A415-29C3D6F6E189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5A010C-7DE1-4398-A415-29C3D6F6E189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5A010C-7DE1-4398-A415-29C3D6F6E189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5A010C-7DE1-4398-A415-29C3D6F6E189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386F610E-F993-496A-BD89-BB9F2FCF33A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386F610E-F993-496A-BD89-BB9F2FCF33A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386F610E-F993-496A-BD89-BB9F2FCF33A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386F610E-F993-496A-BD89-BB9F2FCF33A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F8BE48-3C6C-4BD1-AEA7-6CAE80066687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F8BE48-3C6C-4BD1-AEA7-6CAE80066687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F8BE48-3C6C-4BD1-AEA7-6CAE80066687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F8BE48-3C6C-4BD1-AEA7-6CAE80066687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A64E2BB3-35EF-4E4A-8980-1942C8825300}
+	EndGlobalSection
+EndGlobal
